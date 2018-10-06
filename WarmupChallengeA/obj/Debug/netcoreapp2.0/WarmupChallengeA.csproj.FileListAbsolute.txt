@@ -1,0 +1,11 @@
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\bin\Debug\netcoreapp2.0\WarmupChallengeA.deps.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\bin\Debug\netcoreapp2.0\WarmupChallengeA.runtimeconfig.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\bin\Debug\netcoreapp2.0\WarmupChallengeA.runtimeconfig.dev.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\bin\Debug\netcoreapp2.0\WarmupChallengeA.dll
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\bin\Debug\netcoreapp2.0\WarmupChallengeA.pdb
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.AssemblyInfoInputs.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.AssemblyInfo.cs
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.dll
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeA\obj\Debug\netcoreapp2.0\WarmupChallengeA.pdb

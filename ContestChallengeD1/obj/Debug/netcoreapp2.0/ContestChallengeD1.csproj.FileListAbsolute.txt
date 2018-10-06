@@ -1,0 +1,11 @@
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\bin\Debug\netcoreapp2.0\ContestChallengeD1.deps.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\bin\Debug\netcoreapp2.0\ContestChallengeD1.runtimeconfig.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\bin\Debug\netcoreapp2.0\ContestChallengeD1.runtimeconfig.dev.json
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\bin\Debug\netcoreapp2.0\ContestChallengeD1.dll
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\bin\Debug\netcoreapp2.0\ContestChallengeD1.pdb
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.AssemblyInfoInputs.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.AssemblyInfo.cs
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.dll
+C:\Users\rober\Source\Repos\QSharpCodingContest\ContestChallengeD1\obj\Debug\netcoreapp2.0\ContestChallengeD1.pdb

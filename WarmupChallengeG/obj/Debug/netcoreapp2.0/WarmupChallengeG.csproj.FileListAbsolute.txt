@@ -1,0 +1,2 @@
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeG\obj\Debug\netcoreapp2.0\WarmupChallengeG.csprojAssemblyReference.cache
+C:\Users\rober\Source\Repos\QSharpCodingContest\WarmupChallengeG\obj\Debug\netcoreapp2.0\WarmupChallengeG.csproj.CoreCompileInputs.cache
